@@ -10,6 +10,7 @@ logging.basicConfig(
 
 
 def key_pressed(key):
+    """Logging pressed key in file"""
     logging.debug(str(key))
 
 
