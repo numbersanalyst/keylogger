@@ -26,4 +26,4 @@ If you want to run keylogger you need to have installed two libraries:
 - [pynput](https://pypi.org/project/pynput/)
 
 ## Important note
-You are using this tool at your own risk. Don't do any damgage with it!
+You are using this tool at your own risk. Don't do any damage with it!
